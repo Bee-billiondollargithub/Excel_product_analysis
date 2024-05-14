@@ -1,0 +1,2 @@
+## *Project Summary* ##
+First, we'll go over how to transform or clean up a raw set of data on Excel. This will include using features like the trim formula, data types, removing duplicates, and more. Then, we'll look at descriptive statistics using the data analysis feature on Excel. This will give us important numbers like the average, min, max, quartiles etc. We'll also create a box and whisker chart for analysing outliers. Third, we'll analyze the data using pivot tables.
